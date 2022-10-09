@@ -8,5 +8,9 @@ In this project, I have done data analysis on Covid-19 data where I have tried t
 In this project I have used:
 <ul>
   <li>SQL</li>
-<li> MS Excel</li>
-<li> Tableau</li>
+<li>MS Excel</li>
+<li>Tableau</li>
+
+<hr>
+A few of the visualizations from the project are as follows:
+
