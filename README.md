@@ -13,4 +13,7 @@ In this project I have used:
 
 <hr>
 A few of the visualizations from the project are as follows:
+<div>
+  <img src='percent_population_infected.png'>
+</div>
 
