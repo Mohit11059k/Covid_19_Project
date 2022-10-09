@@ -16,6 +16,7 @@ A few of the visualizations from the project are as follows:
 <div>
   <img src='percent_population_infected.png'>
 </div>
+  <br>
 <div>
 <img src='death_count_per_conti.png'>
 </div>
